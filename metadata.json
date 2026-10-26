@@ -1,0 +1,6 @@
+{
+  "name": "CivicConnect – Smart Civic Complaint Management System",
+  "description": "An intelligent civic complaint management system with AI problem detection, duplicate complaint identification, smart priority scoring, deadline tracking, and repeat-problem hotspot analytics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
